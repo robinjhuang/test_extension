@@ -3,7 +3,7 @@
 """Tests for `test_extension` package."""
 
 import pytest
-from src.test_extension import Example
+from src.test_extension.nodes import Example
 
 @pytest.fixture
 def example_node():
