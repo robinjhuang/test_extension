@@ -71,7 +71,7 @@ class Example:
             },
         }
 
-    RETURN_TYPES = ("INT",)
+    RETURN_TYPES = ("IMAGE",)
     #RETURN_NAMES = ("image_output_name",)
 
     FUNCTION = "test"
